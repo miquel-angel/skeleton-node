@@ -1,4 +1,4 @@
-#Node Skeleton
+# Node Skeleton
 
 This repo contains a simple skeleton of a project with node and mysql using Docker.
 
